@@ -1,0 +1,5 @@
+1- Banana
+2- Laranja
+3- Manga
+4- Morango
+5- Uva
