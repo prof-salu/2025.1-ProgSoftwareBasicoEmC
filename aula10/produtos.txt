@@ -1,0 +1,3 @@
+Produto: Notebook, Preco: 4000.00
+Produto: Mouse, Preco: 70.50
+Produto: Monitor OLED, Preco: 7000.00
